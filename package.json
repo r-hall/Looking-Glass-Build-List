@@ -1,0 +1,24 @@
+{
+  "name": "Looking-Glass-Build-List",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-hall/Looking-Glass-Build-List.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r-hall/Looking-Glass-Build-List/issues"
+  },
+  "homepage": "https://github.com/r-hall/Looking-Glass-Build-List#readme",
+  "dependencies": {
+    "mongoose": "^5.2.9",
+    "twitter": "^1.7.1"
+  }
+}
